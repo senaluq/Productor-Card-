@@ -1,9 +1,6 @@
 ## Productor-Card-
-
-
-
 <p align="center">
- <img src="https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy-downsized-large.gif" width="385">
+ <img src="https://media.giphy.com/media/u7D5EyS2EFlpC/giphy.gif" width="385">
 
 </p>
 
