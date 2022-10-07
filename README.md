@@ -28,9 +28,9 @@ en este repositorio veremos disrintas clses de codigos y variables unos de ellos
 
 ## 📢 Eventos
 
-Se desarrolllo UN Navbar con su cursor un menu aleatorio y este maneja color al igual que se le inserto una imagen, tambien se desarrollo la el Navbar personalizado  
+Se desarrolllo UN Card 
 
 ## 💼 EVIDENCIAS: 
 
-* Navbar
-*Navbar personalizado
+* Card 
+*Card personalizado
